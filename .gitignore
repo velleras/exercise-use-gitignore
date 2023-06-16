@@ -1,4 +1,4 @@
 node_modules/
-z*
-arq.env
-artifacts
+z*,
+arq.env,
+artifacts,
